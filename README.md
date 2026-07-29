@@ -4,7 +4,6 @@ Security researcher
 
 ### CVEs
 
-| | |
 |---|---|
 | [CVE-2026-2586](https://nvd.nist.gov/vuln/detail/CVE-2026-2586) | 9.1 |
 | [CVE-2026-45746](https://nvd.nist.gov/vuln/detail/CVE-2026-45746) | 9.0 |
