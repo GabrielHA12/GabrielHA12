@@ -1,16 +1,18 @@
 ### Gabriel Hinostroza
 
-Security researcher — Lima, Peru.
-Java application servers, self-hosted infrastructure, and agent/LLM attack surface.
+Security researcher
 
-**Selected CVEs**
+### CVEs
 
-- [CVE-2026-2586](https://nvd.nist.gov/vuln/detail/CVE-2026-2586) — Eclipse GlassFish · EL injection → RCE · **9.1 critical**
-- [CVE-2026-45750](https://nvd.nist.gov/vuln/detail/CVE-2026-45750) — Termix · OS command injection · **9.0 critical**
+| | |
+|---|---|
+| [CVE-2026-2586](https://nvd.nist.gov/vuln/detail/CVE-2026-2586) | 9.1 |
+| [CVE-2026-45746](https://nvd.nist.gov/vuln/detail/CVE-2026-45746) | 9.0 |
+| [CVE-2026-45750](https://nvd.nist.gov/vuln/detail/CVE-2026-45750) | 9.0 |
+| [CVE-2026-53547](https://nvd.nist.gov/vuln/detail/CVE-2026-53547) | 8.8 |
 
-Plus two more in Termix — session hijacking to RCE and account takeover.
+### Tools
 
-**Working on**
+**Introspector** — out-of-band exploitation and HTTP behavior analysis.
 
-`Introspector` — out-of-band exploitation and HTTP behavior analysis.
-Hunting classic bugs in AI infrastructure: LLM gateways, MCP servers, agent memory.
+[LinkedIn](https://linkedin.com/in/TU-HANDLE)
