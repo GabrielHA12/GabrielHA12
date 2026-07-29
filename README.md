@@ -1,16 +1,16 @@
-## Hi there 👋
+### Gabriel Hinostroza
 
-<!--
-**GabrielHA12/GabrielHA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher — Lima, Peru.
+Java application servers, self-hosted infrastructure, and agent/LLM attack surface.
 
-Here are some ideas to get you started:
+**Selected CVEs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [CVE-2026-2586](https://nvd.nist.gov/vuln/detail/CVE-2026-2586) — Eclipse GlassFish · EL injection → RCE · **9.1 critical**
+- [CVE-2026-45750](https://nvd.nist.gov/vuln/detail/CVE-2026-45750) — Termix · OS command injection · **9.0 critical**
+
+Plus two more in Termix — session hijacking to RCE and account takeover.
+
+**Working on**
+
+`Introspector` — out-of-band exploitation and HTTP behavior analysis.
+Hunting classic bugs in AI infrastructure: LLM gateways, MCP servers, agent memory.
